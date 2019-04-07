@@ -148,6 +148,7 @@ A Fuchsia package is one or more collections of files that provide one or more p
 
 # Community
 - [r/Fuchsia](https://www.reddit.com/r/Fuchsia/) - Fuchsia subreddit with news and information about Fuchsia
+- [Fuchsia OS 中文社区](https://t.me/FuchsiaOSzh) - Fuchsia China Telegram Group with news and information about Fuchsia
 
 
 ## License
